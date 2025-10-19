@@ -5,6 +5,7 @@ Pequeno projeto de persistência em CSV para livros — API REST construída com
 ## Requisitos
 - Python 3.12 (ver [`.python-version`](.python-version))
 - pip
+- uv
 
 ## Instalação (local)
 Recomenda-se criar um ambiente virtual:
