@@ -1,0 +1,9 @@
+id,titulo,autor,genero,quantidade_paginas,editora,deleted
+1,O Senhor dos Anéis,J.R.R. Tolkien,Fantasia,1300,HarperCollins,False
+2,Dom Casmurro,Machado de Assis,Romance,1300,Editora A,False
+4,Dom Casmurro,Machado de Assis,Romance,256,Editora A,False
+5,1984,George Orwell,Distopia,328,Companhia das Letras,False
+6,O Pequeno Príncipe,Antoine de Saint-Exupéry,Fábula,96,Agir,False
+7,A Revolução dos Bichos,George Orwell,Satira,112,Companhia das Letras,False
+8,O Senhor dos Anéis,J.R.R. Tolkien,Fantasia,1216,HarperCollins,False
+9,O Senhor dos Anéis,J.R.R. Tolkien,Fantasia,1216,HarperCollins,False
