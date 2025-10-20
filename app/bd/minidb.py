@@ -164,7 +164,7 @@ class MiniDB:
             for linha in reader:
                 if linha['deleted'] == 'False':
                     writer.writerow(linha)
-            os.replace(temp_path, self.path_csv)
+        os.replace(temp_path, self.path_csv)
 
     def count(self):
         if not os.path.exists(self.path_csv):
