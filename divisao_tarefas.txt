@@ -1,0 +1,3 @@
+Sabrina - manipulação do csv, com as operações insert, get_all, get_especifico, update, delete,vacunm, count.
+Issllany - CRUD FastApi.
+Eduarda - Hash, download zip e script de povoamento.
