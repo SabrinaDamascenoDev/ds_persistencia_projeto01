@@ -1,6 +1,5 @@
 import os
 import csv
-import pandas as pd
 
 from app.schemas.livro_schema import LivroSchema, LivroUpdateSchema
 
