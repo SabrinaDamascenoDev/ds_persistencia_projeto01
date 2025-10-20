@@ -39,6 +39,7 @@ Depois de subir o servidor, a documentação interativa estará disponível em:
 - app/bd/minidb.py — implementação MiniDB (insert, get_all, get_especifico, update, delete, vacuum, count)
 - app/schemas/livro_schema.py — schemas: LivroSchema e LivroUpdateSchema
 - pyproject.toml — configurações do projeto (dependências listadas)
+- routes - contém as rotas do fastapi
 
 ## Operações importantes
 - Reiniciar IDs: editar `app/bd/bd.seq` com o número desejado (inteiro).
