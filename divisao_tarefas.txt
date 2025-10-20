@@ -1,0 +1,3 @@
+Sabrina - manipulação do csv, com as operações insert, get_all, get_especifico, update, delete,vacunm, count e criação do schema do livro.
+Issllany - CRUD Fastapi, com os endpoints insert, get, update, delete, count e vacunm.
+Eduarda - Hash, download zip e script de povoamento.
