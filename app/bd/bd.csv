@@ -10,3 +10,4 @@ id,titulo,autor,genero,quantidade_paginas,editora,deleted
 11,Dom Casmurro,Machado de Assis,Romance,256,Principis,False
 12,O Hobbit,J.R.R. Tolkien,Fantasia,310,HarperCollins,False
 13,1984,George Orwell,Ficção Científica,328,Companhia das Letras,False
+14,A Hora da Estrela,Clarice Lispector,Romance,50,Planeta,False

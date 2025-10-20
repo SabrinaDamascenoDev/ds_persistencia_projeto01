@@ -20,15 +20,12 @@ class MiniDB:
             with open(self.path_seq, 'w') as f:
                 f.write('0')
         else:
-            try:
-                with open(self.path_seq, 'r') as f:
-                    content = f.read().strip()
-                    if not content.isdigit():
-                        with open(self.path_seq, 'w') as f:
-                            f.write('0')
-            except:
-                with open(self.path_seq, 'w') as f:
-                    f.write('0')            
+            with open(self.path_seq, 'r') as f:
+                content = f.read().strip()
+                if not content.isdigit():
+                    with open(self.path_seq, 'w') as f:
+                        f.write('0')
+          
 
 
     def _incrementar_id(self) -> int:
