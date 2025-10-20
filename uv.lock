@@ -75,7 +75,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "fastapi", extras = ["standard", "standart"], specifier = ">=0.119.0" },
+    { name = "fastapi", extras = ["standard"], specifier = ">=0.119.0" },
     { name = "pandas", specifier = ">=2.3.3" },
 ]
 
