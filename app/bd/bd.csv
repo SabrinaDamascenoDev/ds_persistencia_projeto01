@@ -6,7 +6,6 @@ id,titulo,autor,genero,quantidade_paginas,editora,deleted
 7,A Revolução dos Bichos,George Orwell,Satira,112,Companhia das Letras,False
 8,O Senhor dos Anéis,J.R.R. Tolkien,Fantasia,1216,HarperCollins,False
 9,O Senhor dos Anéis,J.R.R. Tolkien,Fantasia,1216,HarperCollins,False
-10,O Senhor dos Anéis,J.R.R. Tolkien,Fantasia,1216,HarperCollins,False
 11,Dom Casmurro,Machado de Assis,Romance,256,Principis,False
 12,O Hobbit,J.R.R. Tolkien,Fantasia,310,HarperCollins,False
 13,1984,George Orwell,Ficção Científica,328,Companhia das Letras,False
