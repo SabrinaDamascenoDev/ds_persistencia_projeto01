@@ -24,16 +24,9 @@ source .venv/bin/activate
 1. Executar como exemplo (script demonstrativo):
 
 ```bash
-python main.py
+python run main.py
 ```
 
-2. Executar como servidor HTTP (FastAPI + Uvicorn — recomendado para API):
-
-```bash
-uvicorn main:app --reload --host 127.0.0.1 --port 8000
-```
-
-Observação: o comando acima pressupõe que o arquivo `main.py` exporta a instância FastAPI com o nome `app`. Se o nome for diferente, ajuste `main:app` para `<module>:<app_name>`.
 
 Depois de subir o servidor, a documentação interativa estará disponível em:
 - Swagger: http://127.0.0.1:8000/docs
